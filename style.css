@@ -1,0 +1,28 @@
+#body{
+    background-color: black;
+}
+#get{
+    font-size: 15px;
+    text-align: center;
+    word-wrap: break-word;
+    word-break: break-all;
+    color: white;
+}
+#hero-img{
+    max-width: 100%;
+    height: auto;
+}
+#highlight{
+    display: flex;
+}
+#highlight h5{
+    color: blue;
+    font-size: 2rem;
+    margin-left: 12rem;
+    margin-top: 1rem;
+    
+}
+#highlight h4{
+    color: #86868B;
+    font-size: 3rem;
+}
